@@ -1,0 +1,5 @@
+TARGETNAME=workDriver
+TARGETTYPE=DRIVER
+
+SOURCES=stdafx.c \
+	workDriver.c

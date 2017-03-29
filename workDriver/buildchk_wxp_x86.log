@@ -1,0 +1,8 @@
+BUILD: Computing Include file dependencies:
+BUILD: Examining c:\users\tomer\documents\visualstudio2008\projects\workdriver\workdriver directory for files to compile.
+oacr invalidate root:x86chk /autocleanqueue
+1>Compiling and Linking c:\users\tomer\documents\visualstudio2008\projects\workdriver\workdriver *************
+1>'nmake.exe /nologo BUILDMSG=Stop. -i /nologo /f c:\winddk\7600.16385.1_winxp_vpp_2008\bin\makefile.def BUILD_PASS=PASS2 LINKONLY=1 NOPASS0=1 MAKEDIR_RELATIVE_TO_BASEDIR='
+1>BUILDMSG: _NT_TARGET_VERSION SET TO WINXP
+1> C:\WINDDK\7600.16385.1_WINXP_VPP_2008\Bin\x86\oacr\oacrcl @c:\users\tomer\documents\visualstudio2008\projects\workdriver\workdriver\objchk_wxp_x86\i386\cl.rsp
+1> C:\WINDDK\7600.16385.1_WINXP_VPP_2008\Bin\x86\oacr\oacrlink /out:c:\users\tomer\documents\visualstudio2008\projects\workdriver\workdriver\objchk_wxp_x86\i386\workDriver.sys /machine:ix86 @c:\users\tomer\documents\visualstudio2008\projects\workdriver\workdriver\objchk_wxp_x86\i386\lnk.rsp

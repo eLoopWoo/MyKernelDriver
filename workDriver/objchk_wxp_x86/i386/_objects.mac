@@ -1,0 +1,17 @@
+
+
+386_OBJECTS=\
+ $(OBJ_PATH)\$O\stdafx.obj \
+ $(OBJ_PATH)\$O\workdriver.obj \
+
+
+
+
+
+# lowercased
+BASEDIR=c:\winddk\7600.16385.1_winxp_vpp_2008
+OBJECT_ROOT=c:\winddk\7600.16385.1_winxp_vpp_2008
+MAKEDIR_LOWERCASE=c:\users\tomer\documents\visualstudio2008\projects\workdriver\workdriver
+OBJ_PATH=c:\users\tomer\documents\visualstudio2008\projects\workdriver\workdriver
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0
